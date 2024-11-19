@@ -1,0 +1,3 @@
+/home/udev/CLionProjects/hms/cmake-build-debug/CMakeFiles/hms.dir
+/home/udev/CLionProjects/hms/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/udev/CLionProjects/hms/cmake-build-debug/CMakeFiles/rebuild_cache.dir

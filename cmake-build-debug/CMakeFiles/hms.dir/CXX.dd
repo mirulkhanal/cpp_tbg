@@ -1,0 +1,13 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/hms.dir/main.cpp.o: dyndep
+
+build CMakeFiles/hms.dir/inventory.cpp.o: dyndep
+
+build CMakeFiles/hms.dir/story.cpp.o: dyndep
+
+build CMakeFiles/hms.dir/ui.cpp.o: dyndep
+
+build CMakeFiles/hms.dir/game_state.cpp.o: dyndep
+
+build CMakeFiles/hms.dir/NPC.cpp.o: dyndep
+

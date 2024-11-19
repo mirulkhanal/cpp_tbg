@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/hms.dir/story.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/udev/CLionProjects/hms/cmake-build-debug",
+	"dir-cur-src" : "/home/udev/CLionProjects/hms",
+	"dir-top-bld" : "/home/udev/CLionProjects/hms/cmake-build-debug",
+	"dir-top-src" : "/home/udev/CLionProjects/hms",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/udev/CLionProjects/hms/cmake-build-debug/CMakeFiles/hms.dir"
+}
